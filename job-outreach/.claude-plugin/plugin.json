@@ -1,0 +1,9 @@
+{
+  "name": "job-outreach",
+  "version": "0.1.0",
+  "description": "A weekly job-search assistant for Aidan McFarlane, a bilingual (EN/JP/KR) brand, digital and UX designer based in Fukuoka, Japan. Finds and scores remote design leads from Upwork, job boards and Gmail alerts, drafts personalised outreach as Gmail drafts only (never sends), and tracks the pipeline with Gmail labels.",
+  "author": {
+    "name": "Aidan McFarlane"
+  },
+  "keywords": ["job-search", "outreach", "freelance", "design", "upwork", "gmail", "pipeline", "japan", "localisation"]
+}

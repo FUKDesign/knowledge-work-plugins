@@ -1046,6 +1046,15 @@
         "sha": "cd0c2976c9b47a56e2b7d4cce1cd77fc058bee39"
       },
       "homepage": "https://www.gitkraken.com"
+    },
+    {
+      "name": "job-outreach",
+      "displayName": "Job Outreach",
+      "source": "./job-outreach",
+      "description": "Weekly job-search assistant for a bilingual brand and digital designer: finds and scores remote design leads from Upwork, job boards and Gmail alerts, drafts personalised outreach as Gmail drafts only (a human sends), and tracks the pipeline with Gmail labels.",
+      "author": {
+        "name": "Aidan McFarlane"
+      }
     }
   ]
 }
