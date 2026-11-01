@@ -454,6 +454,12 @@
       "description": "View, annotate, and sign PDFs in a live interactive viewer. Mark up contracts, fill forms with visual feedback, stamp approvals, and place signatures — then download the annotated copy."
     },
     {
+      "name": "riish",
+      "displayName": "Riish",
+      "source": "./riish",
+      "description": "Set up a free, local text-to-speech voice on a Mac that approximates a warm, calm, low Irish male narrator, using Chatterbox (Resemble AI, MIT licence) with voice cloning from a consented reference clip."
+    },
+    {
       "name": "box",
       "displayName": "Box",
       "description": "Work with your Box content directly from Claude Code — search files, organize folders, collaborate with your team, and use Box AI to answer questions, summarize documents, and extract data without leaving your workflow.",

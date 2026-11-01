@@ -1,0 +1,9 @@
+{
+  "name": "riish",
+  "version": "0.1.0",
+  "description": "Set up a free, local text-to-speech voice on a Mac that approximates a warm, calm, low Irish male narrator, using Chatterbox (Resemble AI, MIT licence) with voice cloning from a consented reference clip.",
+  "author": {
+    "name": "Aidan McFarlane"
+  },
+  "keywords": ["tts", "text-to-speech", "voice-cloning", "chatterbox", "mac", "offline"]
+}
