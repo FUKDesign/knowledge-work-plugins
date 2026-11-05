@@ -9,8 +9,10 @@ Public, portfolio-level profile used by every skill in this plugin. It contains 
 - **One-line pitch:** British senior brand and digital designer based in Fukuoka, Japan.
 - **Location:** Fukuoka, Japan (JST, UTC+9). Works remotely with international teams, using async handovers.
 - **Work arrangement:** remote only, from Fukuoka. No hybrid, on-site (including Fukuoka offices) or relocation.
+- **Visa:** no visa sponsorship required.
 - **Languages:** English (native), Japanese (professional, fluent; JLPT N1), Korean (intermediate, conversational)
-- **Sending address:** aidanrmcfarlane@gmail.com
+- **Contact email (forms and applications):** aidanmthedesigner@gmail.com (the address on his CV)
+- **Sending address:** aidanrmcfarlane@gmail.com (the connected Gmail account; Gmail drafts are still created and sent from it)
 - **CV file:** `Aidan_McFarlane_CV_English.pdf` (the user attaches it before sending)
 
 ## Links

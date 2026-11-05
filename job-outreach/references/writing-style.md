@@ -20,7 +20,7 @@ How Aidan's outreach should read. Every draft from `draft-outreach` must follow 
 2. **Greeting:** "Hello [First name]," if a named contact is known; otherwise "Hello [Org] team,".
 3. **First line (mandatory, never generic):** one sentence about the company's own recent work: a campaign, a product launch, a case study, a rebrand, a report, a lens, a programme. It must name the specific thing and say why it caught his eye. If research has not turned up something specific, do not draft; go back and research.
 4. **Pitch (2–3 sentences):** who he is ("a British senior brand and digital designer based in Fukuoka, Japan"), what he offers for *this* lead, and **2–3 relevant named clients** chosen from the proof-points table in `candidate-profile.md`. Mention EN/JP (and KR where useful) only when it is relevant.
-5. **Practical line (optional, 1 sentence):** remote working from JST with async handovers, production-ready files, tools that match their stack.
+5. **Practical line (optional, 1 sentence):** remote working from JST with async handovers, production-ready files, tools that match their stack. For job applications, or wherever hiring or location comes up, add "Based in Fukuoka; no visa sponsorship needed."
 6. **Links:** CV attached, plus portfolio and LinkedIn.
 7. **Soft closing question:** a low-pressure yes/no question.
 8. **Sign-off:** "Best regards," then "Aidan McFarlane".
