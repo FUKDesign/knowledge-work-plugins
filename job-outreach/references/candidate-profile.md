@@ -8,7 +8,8 @@ Public, portfolio-level profile used by every skill in this plugin. It contains 
 - **Headline:** Brand, digital, UX and content designer. Design, content and localisation for organisations working across Japan, APAC and international markets.
 - **One-line pitch:** British senior brand and digital designer based in Fukuoka, Japan.
 - **Location:** Fukuoka, Japan (JST, UTC+9). Works remotely with international teams, using async handovers.
-- **Languages:** English (native), Japanese (professional, fluent), Korean (intermediate, conversational)
+- **Work arrangement:** remote only, from Fukuoka. No hybrid, on-site (including Fukuoka offices) or relocation.
+- **Languages:** English (native), Japanese (professional, fluent; JLPT N1), Korean (intermediate, conversational)
 - **Sending address:** aidanrmcfarlane@gmail.com
 - **CV file:** `Aidan_McFarlane_CV_English.pdf` (the user attaches it before sending)
 
@@ -46,7 +47,6 @@ NGOs, non-profits and conservation; consumer health; creative agencies; camera a
 
 ### Open questions
 - TODO: preferred full-time salary (currency and range) and minimum acceptable day or project rate. Until filled in, never state a rate in outreach; leave pricing to the user.
-- TODO: openness to relocation or on-site / hybrid work (Fukuoka local roles, Tokyo, abroad). Until filled in, treat on-site roles outside Fukuoka as low fit and flag them rather than pitching.
 
 ## Skills and tools
 

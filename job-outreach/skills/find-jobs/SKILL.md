@@ -91,14 +91,16 @@ Report how many leads were removed by the history check, but do not print the de
 | Criterion | Points | What earns full marks |
 |-----------|--------|-----------------------|
 | Role fit | 0–30 | Brand, graphic, campaign, social, content or UX design that matches his disciplines and portfolio |
-| Remote / Japan compatibility | 0–25 | Fully remote with no country restriction, or Japan-based remote, or explicitly async; Fukuoka on-site also counts. Zero if restricted to a region that excludes Japan |
+| Remote / Japan compatibility | 0–25 | Fully remote with no country restriction, or Japan-based remote, or explicitly async. Zero if restricted to a region that excludes Japan |
 | Seniority match | 0–15 | Mid-weight to senior, or lead on a small team. Junior or head-of roles score low |
 | Language advantage | 0–15 | Japanese or Korean required or a bonus; Japan/APAC market focus; localisation |
 | Client/industry overlap | 0–15 | Sector or client type he already has named proof for (agency, consumer health, e-commerce, NGO, hospitality, camera/photo, travel, education, AI ad production) |
 
+Exclude before scoring: any hybrid or on-site role (including Fukuoka) or one that needs relocation. He works remote only. If the arrangement is unclear, keep it but flag "confirm fully remote".
+
 Adjustments:
+- +10 if the role requires Japanese at JLPT N2 or N1 (he has N1)
 - −10 if the posting is older than 21 days or the brief is vague
-- −15 if the role requires on-site work outside Fukuoka (until the relocation TODO in the profile is resolved)
 - −20 and flag for Upwork jobs with unverified payment or obvious spec-work requests
 
 Bands: **80+** strong, pitch this week · **60–79** good · **40–59** maybe, only if the week is thin · **<40** drop.
@@ -116,7 +118,7 @@ Bands: **80+** strong, pitch this week · **60–79** good · **40–59** maybe,
 | 1 | 88 | [Org] | [Role] | Freelance | Remote, any TZ | [1-line reason + best proof point] | [link] |
 
 **Maybe (40–59):** [short list with links]
-**Flags:** [unverified payment, on-site, previously contacted, etc.]
+**Flags:** [unverified payment, confirm fully remote, previously contacted, etc.]
 
 Reply with the numbers to approve (e.g. "1, 2, 5"), and I'll draft outreach for them.
 ```

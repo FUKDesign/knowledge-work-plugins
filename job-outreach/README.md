@@ -77,4 +77,3 @@ This plugin is safe to keep in a public repo. It contains only public, portfolio
 
 Open items are marked `TODO:` in `references/candidate-profile.md`:
 - Preferred full-time salary and minimum day / project rate
-- Openness to relocation or on-site / hybrid work
