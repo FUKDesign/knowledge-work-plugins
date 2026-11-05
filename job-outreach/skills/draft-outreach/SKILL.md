@@ -16,7 +16,7 @@ Read first:
 1. **Never send.** Use Gmail `create_draft` only. Never call `send_message`, `reply` or `forward`, even if asked to "just send it"; tell the user to send from Gmail.
 2. **Never submit on Upwork.** Do not call `manage_proposals` or `send_message`. Output the proposal text for the user to paste.
 3. **Never state a rate, salary or start date** unless the user gives it in this conversation.
-4. **Re-check history before each draft:** search Gmail for the organisation's name and domain. If they have declined, or there is a draft or a sent email in the last 6 months, skip the lead and say why.
+4. **Re-check history before each draft:** search Gmail for the organisation's name and domain. If there is any prior contact ever (a decline, a draft, or anything sent or received by email, form or application, even via a recruiter or for a new posting), skip the lead and say why. Only proceed if the user explicitly named that company.
 5. **Do not write lead details into the repo.** Drafts and labels in Gmail are the record.
 
 ## Connectors

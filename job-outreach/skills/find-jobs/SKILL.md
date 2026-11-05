@@ -75,13 +75,14 @@ For every organisation on the list, search Gmail for any past contact:
 
 - Labels: `label:"Job Outreach/Sent" OR label:"Job Outreach/Replied" OR label:"Job Outreach/Interview" OR label:"Job Outreach/Declined" OR label:"Job Outreach/Won" OR label:"Job Outreach/Drafted"`, combined with the organisation name or domain
 - Sent mail: `in:sent ("[Org name]" OR [domain])`, no date limit
+- Received mail: `from:[domain] OR "[Org name]"`, no date limit (catches replies and form or application confirmations)
 - Replies: `from:[domain]` and `"[Org name]" (unfortunately OR "not hiring" OR "position has been filled" OR "not moving forward" OR "keep your details on file")`
 
 Rules:
 - **Declined or "not hiring" at any time:** drop. Do not re-pitch.
-- **Contacted in the last 6 months with no reply:** drop (follow-ups are handled by `track-pipeline`).
+- **Any prior contact, ever:** drop. This covers anything sent or received by any route (email, contact form or job application), matched by company name and domain, even if there is a new posting or the role comes through a recruiter. Follow-ups are handled by `track-pipeline`.
 - **Active conversation or work in progress:** drop from the shortlist and note "already in pipeline".
-- **Contacted more than 6 months ago, no decline, and a genuinely new role:** keep, but mark `Previously contacted (date)` so the user decides.
+- **Re-include a previously contacted company only if the user explicitly names it** in this conversation; mark it `Previously contacted (date)`.
 - **Already drafted:** drop and note "draft exists".
 
 Report how many leads were removed by the history check, but do not print the details of past correspondence beyond the organisation name and status.
@@ -100,6 +101,7 @@ Exclude before scoring: any hybrid or on-site role (including Fukuoka) or one th
 
 Adjustments:
 - +10 if the role requires Japanese at JLPT N2 or N1 (he has N1)
+- +10 if the company is international (not headquartered in Japan) and hires worldwide or APAC remote. Japanese-HQ companies are secondary: on equal scores, rank them below international ones
 - −10 if the posting is older than 21 days or the brief is vague
 - −20 and flag for Upwork jobs with unverified payment or obvious spec-work requests
 
@@ -111,7 +113,7 @@ Bands: **80+** strong, pitch this week · **60–79** good · **40–59** maybe,
 # Job Shortlist: [date range]
 
 **Sources searched:** Upwork ([n]), web/job boards ([n]), Gmail alerts ([n])
-**Removed by history check:** [n] (declined [n], recently contacted [n], in pipeline [n], draft exists [n])
+**Removed by history check:** [n] (declined [n], previously contacted [n], in pipeline [n], draft exists [n])
 
 | # | Score | Organisation | Role | Type | Remote / location | Why it fits | Source |
 |---|-------|--------------|------|------|-------------------|-------------|--------|

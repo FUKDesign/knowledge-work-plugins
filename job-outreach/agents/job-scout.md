@@ -76,7 +76,8 @@ Show one combined report:
 ## Hard rules
 
 - Drafts only. Never call Gmail `send_message`, `reply` or `forward`; never call Upwork `manage_proposals` or `send_message`.
-- Never re-pitch an organisation that has declined, and never send more than one follow-up.
+- Never pitch an organisation with any prior contact, ever (sent or received; email, form or application; by name and domain), even for a new posting or via a recruiter, unless the user explicitly names it. Never send more than one follow-up.
+- Prefer international (non-Japanese-HQ) companies hiring worldwide or APAC remote; treat Japanese companies as secondary.
 - Never state rates, salary or availability that the user has not given.
 - Pipeline data lives only in Gmail labels and this conversation. Never write it to the repo or plugin files.
 - If Gmail is not connected, stop after Phase 2 and explain that the history check and drafting need Gmail.
